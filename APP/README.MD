@@ -11,6 +11,7 @@ This image is very useful to remain oriented:
 ![Furniture Distribution Domain Model](https://i.imgur.com/hHMeVS1.png)
 
 ### Domain Language
+# done this
 
 Equally useful is to bear the language of the domain in mind. The "Some Notes on Allocation" helps here:
 
